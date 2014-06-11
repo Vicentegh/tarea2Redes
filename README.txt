@@ -1,0 +1,6 @@
+-Para que funcione, se necesita que los dos computadores esten conectados en la misma red
+-Luego que ambos computadores corran el server de http (Web.java)
+-Editar la "ipAux" de Cliente.java, por la ip del computador donde se usara, esta en las primeras lineas y esta indicado por un comentario
+-Ingresar en el browser localhost:80/Chat.html (el puerto es modificable en caso de que no funcione, se puede modificar en Web.java, esta en las primeras lineas y esta especificado por un comentario)
+-Para enviar mensajes se debe ingresar HOLA <ip del computador a enviar> <mensaje a enviar>. A base de ejemplo seria: HOLA 192.168.1.152 Alex no me rajes en las tareas xD
+-Para enviar un archivo se debe ingresar donde es encuentra el archivo en el computador de donde se esta enviando
